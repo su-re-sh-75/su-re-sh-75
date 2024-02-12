@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning Django, Git, and Machine Learning<br>💬 Ask me about Python and Django.<br>
-
+---
+[![](https://visitcount.itsvg.in/api?id=su-re-sh-75&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__suresh_75__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suresh-r-aa0808273) 
@@ -14,8 +15,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=su-re-sh-75&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
