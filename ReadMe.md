@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Suresh 👋</h1>
 
 # 💫 About Me:
-🔭 I’m a Computer Science Engineering student in CIT, Coimbatore with an interest in Backend Software Development<br>🌱 I’m currently learning Django, Git, and Machine Learning<br>💬 Ask me about Python and Django.<br>
+🔭 I’m a Computer Science Engineering student in CIT, Coimbatore with an interest in Backend Software Development<br>💬 Ask me about Python and Django.<br>
 
 
 ---
