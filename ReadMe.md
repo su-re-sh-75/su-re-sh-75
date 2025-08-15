@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Suresh 👋</h1>
 <div align="center">
-  <span>view my</span>
-  <a href="https://sureshdev.vercel.app/">portfolio</a>
+  <a href="https://sureshdev.vercel.app/">sureshdev.vercel.app</a>
 </div>
+---
 # 💫 About Me:
 🔭 I’m a CS Graduate with an interest in Web Development<br>💬 Ask me about Python and Django.<br>
 
