@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Suresh 👋</h1>
 <div align="center">
-  <p>view my</p>
+  <span>view my</span>
   <a href="https://sureshdev.vercel.app/">portfolio</a>
 </div>
 # 💫 About Me:
